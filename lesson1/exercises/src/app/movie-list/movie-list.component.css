@@ -1,0 +1,12 @@
+.movies {
+    color:rebeccapurple;
+}
+
+#moviesHeading {
+    text-align: center;
+}
+
+#movieList {
+    font-size: large;
+    color:red;
+}

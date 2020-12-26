@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-
+//comment
 @Component({
    selector: 'chores-list',
    templateUrl: './chores-list.component.html',

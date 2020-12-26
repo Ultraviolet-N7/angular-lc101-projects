@@ -1,0 +1,12 @@
+.chores {
+    color: darkgoldenrod;
+}
+
+#choresHeading {
+    text-decoration: underline;
+}
+
+#choresList {
+    font-size: large;
+    font-style: italic;
+}
