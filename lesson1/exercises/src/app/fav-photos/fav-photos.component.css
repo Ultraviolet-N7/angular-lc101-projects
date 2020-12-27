@@ -1,13 +1,12 @@
 h3 {
    color: brown;
+   text-decoration: underline;
 }
 
 img {
-   
-   max-width: 100%;
-   height: auto;
-   
-   
+   width: 100px;
+   height: 100px;
+    
 }
 
 .photos {
