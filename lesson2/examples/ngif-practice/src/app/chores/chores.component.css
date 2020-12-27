@@ -2,6 +2,11 @@
     color: #ff4f33;
 }
 
+.warning {
+color: purple;
+
+}
+
 .doneChores {
     color: #3c79b8;
 }
