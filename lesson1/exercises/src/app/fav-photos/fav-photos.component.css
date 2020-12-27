@@ -2,12 +2,12 @@ h3 {
    color: brown;
 }
 
-.imgColumn {
-   flex: 25%;
+img {
+   
    max-width: 100%;
    height: auto;
-   padding: 500px;
-   opacity: .5;
+   
+   
 }
 
 .photos {
